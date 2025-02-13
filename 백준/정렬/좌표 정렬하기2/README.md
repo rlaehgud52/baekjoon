@@ -2,13 +2,11 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11651) 
 
-### 성능 요약
-
-메모리: 59068 KB, 시간: 380 ms
-
 ### 분류
 
 정렬
+2차원 정렬의 기본 방법
+.sort(key=lambda x=~) 을 이용하자
 
 ### 제출 일자
 
